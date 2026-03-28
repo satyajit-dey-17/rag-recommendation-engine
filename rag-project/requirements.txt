@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
+openai
+chromadb
+python-dotenv
+tiktoken
+plotly
+streamlit-mermaid
