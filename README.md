@@ -1,4 +1,4 @@
-# Multi-Cloud Architecture Recommender
+# CloudArch AI: Multi-Cloud Architecture Recommender
 
 An AI-powered cloud solutioning assistant that analyzes application workload requirements and recommends the best-fit cloud provider across **AWS, Azure, and GCP**. The platform generates provider comparisons, cost estimates, architecture summaries, Terraform starter code, and architecture diagrams through an interactive Streamlit interface.
 
